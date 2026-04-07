@@ -6,7 +6,7 @@ Um algoritmo é um conjunto de passos que devem ser executados de maneira lógic
 
 Veja a seguir um problema de exemplo e suas variações na forma de escrever os mesmos:
 
-##Problema inicial
+## Problema inicial
 
 ...
 O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". 
