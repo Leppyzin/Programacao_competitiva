@@ -1,5 +1,3 @@
-# Introdução aos Algoritmos
-
 ## O que é um Algoritmo?
 
 Um algoritmo é um conjunto de passos que devem ser executados de maneira lógica e bem estruturada, especificando passo a passo uma solução para um problema, sendo fundamental para o desenvolvimento de programas. Além disso, ele é sempre finito.
