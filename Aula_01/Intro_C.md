@@ -51,6 +51,7 @@ exemplo de uso:
 #include <stdio.h>
 
 int main(){
+
     printf("One Piece eh melhor que Naruto \n");
 
     return 0;
@@ -68,7 +69,9 @@ Uma variável é uma abstração que representa uma posição na memória, assoc
 #include <stdio.h>
 
 int main(){
+
     int a,b,s;
+
     a = 10;
     b = 5;
     s = a+b;
