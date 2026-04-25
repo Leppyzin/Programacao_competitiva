@@ -5,7 +5,7 @@ Queria agradecer ao professor [VINICIUS RUELA PEREIRA BORGES](https://viniciusrp
 
 Gostaria também de agradecer ao professor [Daniel de Paula Porto](https://www.porto.ooo/). Ele é o atual orientador do projeto e me guia com muito carinho e cuidado. Gostaria muito de agradecer ele por ter me apoiado esse tempo todo.
 
-O professor [Paulo Henrique Sales Wanderley](https://www.escavador.com/sobre/544232/paulo-henrique-sales-wanderley), também ofereceu total apoio ao projeto como atual Diretor do IFB - Campus ceilândia, cedendo o espaço para que eu pudesse guiar os maguinhos. O professor Paulo sempre nos deixou muito confortavel em relação a projetos. Sempre correu atrás de melhorias para o Campus e sempre lutou para conquistar um espaço para desenvolvermos habilidades triviais.
+O professor [Paulo Henrique Sales Wanderley](https://www.escavador.com/sobre/544232/paulo-henrique-sales-wanderley), também ofereceu total apoio ao projeto como atual Diretor do IFB - Campus ceilândia, cedendo o espaço para que eu pudesse guiar os maguinhos. O professor Paulo sempre nos deixou muito confortavel em relação a projetos, sempre correu atrás de melhorias para o Campus e sempre lutou para conquistar um espaço para desenvolvermos habilidades triviais.
 
 Agradeço a todos pelo o carinho e por sempre acreditarem em mim. Espero que um dia isso faça muita diferença para alguém. Obrigado por mudarem minha vida a cada micro movimento de vocês, a educação salvou minha vida.
 
