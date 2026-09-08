@@ -28,7 +28,7 @@
    5.6 - [Beecrowd - 2313 | Qual Triângulo](https://judge.beecrowd.com/pt/problems/view/2313) -- [Solução sem Funções](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_04/Exerc%C3%ADcios%20Resolvidos/Beecrowd%202313%20-%20Qual%20Triangulo%7C%20sem%20fun%C3%A7%C3%A3o.c) -- [Solução com Funções](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_04/Exerc%C3%ADcios%20Resolvidos/Beecrowd%202313%20-%20Qual%20Triangulo%7C%20com%20fun%C3%A7%C3%A3o.c)
 
 
-   5.7 - [Beecrowd - 2409 | Colchão](https://judge.beecrowd.com/pt/problems/view/2409) -- [Resolução]() -- [Solução]()
+   5.7 - [Beecrowd - 2409 | Colchão](https://judge.beecrowd.com/pt/problems/view/2409) -- [Resolução](https://github.com/Leppyzin/competitive_programming/blob/main/Aula_04/Exerc%C3%ADcios%20Resolvidos/Beecrowd%202409%20-%20Colch%C3%A3o.c) -- [Solução]()
 
    ## Exercícios Resolvidos
 
